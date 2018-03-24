@@ -17,6 +17,9 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	If you want to add a new feature, you can separate it out during development
+	and then merge it back in when it is complete and working.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
