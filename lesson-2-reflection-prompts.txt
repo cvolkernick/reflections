@@ -21,6 +21,9 @@ organized? How would branches help?
 	and then merge it back in when it is complete and working.
 
 How do the diagrams help you visualize the branch structure?
+	
+	The diagrams show the relationships of each commit, and the idea of reachability
+	shows that the relationships only flow in one direction.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
